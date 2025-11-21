@@ -1,7 +1,9 @@
+import 'package:dart_week5/anonymous_fuction.dart';
 import 'package:dart_week5/optional_nsmed.dart';
 
 void main(){
-  callInfo();
+  fruit();
+  //callInfo();
   //callInfo();
   //calculate();
   //callfunction();
